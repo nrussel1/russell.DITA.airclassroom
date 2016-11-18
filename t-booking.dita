@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hxt_ds1_zx">
+    <title>Booking Your Event</title>
+    <shortdesc>This page will help with booking your event no matter how big or small.</shortdesc>
+    <taskbody>
+        <context>
+            <p>We want to help <b>you</b> plan your important event. It can be a guest lecture, a poetry reading, or a global club meeting. Whatever it is, AirClassroom is here to suit your needs.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open your email client</cmd>
+            </step>
+            <step>
+                <cmd>Compose email to <xref href="mailto:nrussel1@vt.edu" format="html" scope="external">nrussel1@vt.edu</xref></cmd>
+                <stepresult>
+                    Email window should look like this: <image href="images/email.png"></image>
+                </stepresult></step>
+                <step>
+                    <cmd>Have '<b>AirClassroom Request</b>' as the subject</cmd>
+                </step>
+            <step>
+                <cmd>Express duration of AirClassroom use and provide necessary event dates</cmd>
+            </step>
+            <step>
+                <cmd>Click send!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

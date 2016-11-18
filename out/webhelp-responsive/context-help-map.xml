@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_mw3_s3z_yx" path="top-about.html"/>
+   <appContext helpID="topic_zcr_t41_zx" path="top-pricing.html"/>
+   <appContext helpID="task_hxt_ds1_zx" path="t-booking.html"/>
+   <appContext helpID="topic_zzr_jr1_zx" path="top-cancelation.html"/>
+   <appContext helpID="reference_ipd_wf1_zx" path="r-gadgets.html"/>
+   <appContext helpID="topic_hvx_hd1_zx" path="top-preparations.html"/>
+   <appContext helpID="topic_oxx_4kz_yx" path="top-guidelines.html"/>
+   <appContext helpID="topic_rmw_3lg_zx" path="top-safety.html"/>
+   <appContext helpID="topic_pjf_rvz_yx" path="top-students.html"/>
+   <appContext helpID="c-sources" path="c-sources.html"/>
+</map>

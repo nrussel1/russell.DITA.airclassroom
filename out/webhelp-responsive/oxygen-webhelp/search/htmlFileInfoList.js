@@ -1,0 +1,12 @@
+fil = new Array();
+fil["0"]= "c-sources.html@@@Sources@@@Included below are the sources I used for my AirClassroom...";
+fil["1"]= "r-gadgets.html@@@Tools and Gadgets Used in AirClassroom@@@Here is a compilation of the various tools and gadgets that will or might be needed to make presentations in the rooms 360 and 180 in Shanks Hall...";
+fil["2"]= "t-booking.html@@@Booking Your Event@@@This page will help with booking your event no matter how big or small...";
+fil["3"]= "top-about.html@@@About@@@For AirClassroom, people from around the world will visit Shanks Hall at Virginia Tech in Blacksburg, Virginia. Similar to Airbnb, AirClassroom lets faculty and students from around the world use...";
+fil["4"]= "top-cancelation.html@@@Cancelation Policy@@@While we regret your cancelation, we understand that life happens and many things arise that are out of our control. If you must cancel your reservation with AirClassroom, you must cancel two days...";
+fil["5"]= "top-guidelines.html@@@Guidelines@@@Included below are guidelines for the inhabitants of AirClassroom. Make sure all cords are plugged in properly Do not eat or drink anything in AirClassroom because it can attract bugs To avoid fire...";
+fil["6"]= "top-preparations.html@@@Preparations@@@Preparing a room as big as 360 or 180 can be daunting, but providing a wide, open space for a meeting, lecture, or event of any kind is essential. The set up of these rooms is not prime for a...";
+fil["7"]= "top-pricing.html@@@Pricing@@@The pricing of AirClassroom is going to be hourly. There are, however, discounts if groups or individuals use AirClassroom for more than one day. The pricing is as follows: $50/hour if using only one...";
+fil["8"]= "top-safety.html@@@Safety@@@While hosting an event in AirClassroom, there are safety precautions that must be followed. They are simple but, if followed, will lead to a seamless, coordinated event. The safety precautions are...";
+fil["9"]= "top-speakers.html@@@For Performers and Speakers@@@Making sure the audience is engaged in your presentation is essential. This includes eliminating distracting elements such as technology issues and maintaining an engaging and captivating...";
+fil["10"]= "top-students.html@@@For Students and Student Clubs@@@For students and those in student clubs who are going to use AirClassroom, they should remember that they will be in an academic building. This means that they are to behave in a respectable manner...";

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jbp_wn1_zx">
+    <title>Cleaning Shanks 360 and 180 Before and After</title>
+    <shortdesc>Here are a few steps to ensure that Shanks 360 and 180 are clean before and after events so that the people of Shanks will be disturbed.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Making sure that the rooms are clean shows that the people hosting events are serious and professional. Therefore, events of the like can occur again.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Wipe down desks and computers</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>This includes food crumbs leftover from previous users and cleaning surfaces that could have fingerprint marks on the computers.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Vacuum the carpet</cmd>
+            </step>
+            <step>
+                <cmd>Arrange chairs neatly</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>The chairs in Shanks can be difficult and are often spread throughout the rooms, so make sure they are kept in an orderly fashion</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
